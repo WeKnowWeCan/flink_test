@@ -1,0 +1,2 @@
+# flink_test
+通过不同的代码案例来熟悉flinke的不同的API的使用
